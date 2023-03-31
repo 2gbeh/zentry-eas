@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+main.prt {
+	padding:10px;
+	background-color:#FFF;}
+
+table.prt-thead {
+	width:auto;}
+	
+table.prt-thead .title {
+	padding:10px 20px;
+	margin:20px 0;
+	background-color:#FF98CB;
+	background-color:#600;
+	color:#FFF;
+	text-align:center;
+	text-transform:uppercase;
+	font-size:32px;
+	font-weight:bold;}	
+	
+table.prt-thead caption a {
+	color:blue;
+	text-decoration:underline;}
+	
+table.prt-thead tr th {
+	padding:5px 10px;
+	padding-right:20px;
+	text-align:left;
+	font-weight:normal;}	
+	
+table.prt-thead tr td {
+	width:800px;
+	font-weight:bold;	
+	border-bottom:solid 3px;}		
+	
+table.prt-thead .nw, 
+table.prt-tbody .nw {
+	white-space:nowrap;}
+	
+table.prt-thead .ar, 
+table.prt-tbody .ar {
+	text-align:right;}	
+	
+table.prt-tbody .bb {
+	border-bottom:solid 5px;}
+	
+table.prt-tbody .null {
+	background-color:#FF98CB;}		
+
+table.prt-tbody .t_label, 
+table.prt-tbody .t_value {
+	color:#600;
+	font-size:24px;
+	font-weight:bold;}
+	
+	
+table.prt-tbody th, 
+table.prt-tbody td {
+	padding:5px 10px;}
+	
+
+	
+	
+	
+	
+	
+	
+	

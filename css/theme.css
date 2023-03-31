@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* PINK */
+form.tmp-form button.pri, 
+aside section.menu ul li a.focus {
+	background-color:#FF98CB;}
+	
+ {
+	color:#FF98CB;}
+	
+ {
+	border-color:#FF98CB;}	
+
+
+/* RED */
+ {
+	background-color:#600;}
+
+header h2, 
+form.tmp-form label, 
+form.tmp-form button.pri, 
+form.tmp-form button.pri:hover, 
+aside section.menu ul li a.focus, 
+nav ul li a {
+	color:#600;}	
+	
+header, 
+form.tmp-form button.pri, 
+form.tmp-form input:focus, 
+aside section.menu ul li a.focus {
+	border-color:#600;}	
+	
+	
+
+
+	

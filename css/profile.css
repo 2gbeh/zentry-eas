@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+section.tmp-profile {
+  padding: 40px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px 0 #ddd;
+}
+section.tmp-profile ul li {
+  background-color: #FF;
+  margin: 0 20px 20px 0;
+  max-width: 310px;
+}
+section.tmp-profile ul li:first-child {
+  background-color: re;
+  min-width: 1px;
+}
+section.tmp-profile ul li:last-child {
+  margin: 0;
+}
+section.tmp-profile ul li img {
+  width: 160px;
+}
+section.tmp-profile ul li i {
+  color: #555;
+}
+section.tmp-profile ul li label {
+  margin-top: 5px;
+  color: #999;
+  font-size: 12px;
+  font-weight: normal;
+  display: block;
+}
+section.tmp-profile ul li a {
+  color: blue;
+  text-decoration: none;
+  font-size: 12px;
+}
+section.tmp-profile ul li table tr {
+  vertical-align: top;
+}
+section.tmp-profile ul li table tr td {
+  padding: 15px 10px;
+  color: #000;
+  font-weight: normal;
+  border-bottom: solid thin #999;
+}
+section.tmp-profile ul li table tr:first-child td {
+  padding-top: 0;
+}
+section.tmp-profile ul li table tr:last-child td {
+  border-bottom: none;
+}
+
+section.tmp-profile-lg {
+  padding: 40px 20px;
+}
+section.tmp-profile-lg ul li {
+  min-width: 380px;
+  max-width: 380px;
+}
+section.tmp-profile-lg ul li {
+  vertical-align: top;
+}
+
+section.tmp-profile .action {
+  margin-top: 20px;
+  text-align: right;
+  border-top: solid thin #999;
+}
+section.tmp-profile .action i {
+  color: #fff;
+}
+section.tmp-profile button {
+  margin-top: 15px;
+  padding: 10px 12px;
+  color: #fff;
+  min-width: 40px;
+  min-height: 40px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+}
+section.tmp-profile button.btn-pri {
+  background-color: #00a65a;
+}
+section.tmp-profile button.btn-pri:hover {
+  background-color: #009551;
+}
+section.tmp-profile button.btn-sec {
+  background-color: #dd4b39;
+}
+section.tmp-profile button.btn-sec:hover {
+  background-color: #c64333;
+}

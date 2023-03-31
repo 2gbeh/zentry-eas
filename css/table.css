@@ -1,0 +1,134 @@
+@charset "utf-8";
+/* CSS Document */
+table.tmp-ribbon {
+  background-color: #fff;
+  font-size: 12px;
+  border-collapse: separate;
+  box-shadow: 0 2px 4px 0 #ddd;
+}
+table.tmp-ribbon caption {
+  padding: 15px;
+  text-align: left;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 0 #fff;
+  font-size: 12px;
+  font-weight: bold;
+}
+table.tmp-ribbon tr th {
+  padding: 0 15px 15px;
+  border: none;
+  font-size: 16px;
+  font-weight: normal;
+}
+table.tmp-ribbon tr td {
+  padding: 10px 15px;
+  text-align: center;
+  font-weight: bold;
+  border: none;
+}
+table.tmp-ribbon var {
+  font-size: 12px;
+  font-style: normal;
+  font-weight: normal;
+}
+table.tmp-ribbon .high {
+  color: #16bc00;
+}
+table.tmp-ribbon .low {
+  color: #e11;
+}
+table.tmp-ribbon .mid {
+  color: #069;
+}
+
+table.tmp-grid {
+  border-collapse: separate;
+}
+table.tmp-grid tr {
+  vertical-align: bottom;
+}
+table.tmp-grid tr td {
+  padding: 0 10px;
+  min-width: 10px;
+  max-width: 10px;
+  white-space: nowrap;
+}
+table.tmp-grid tr td:first-child {
+  padding-left: 0;
+}
+table.tmp-grid tr td:last-child {
+  padding-right: 0;
+}
+
+table.tmp-table {
+  background-color: #fff;
+  font-size: 12px;
+  border-collapse: collapse;
+  box-shadow: 0 2px 4px 0 #ddd;
+}
+table.tmp-table caption {
+  padding: 15px;
+  text-align: left;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 0 #fff;
+  font-size: 12px;
+  font-weight: bold;
+}
+table.tmp-table tr {
+  vertical-align: top;
+}
+table.tmp-table tr th {
+  padding: 15px 10px;
+  text-align: left;
+  border-bottom: solid #ddd;
+}
+table.tmp-table tr th a,
+table.tmp-table tr td a {
+  cursor: pointer;
+  color: blue;
+  text-decoration: underline;
+}
+table.tmp-table tr td {
+  padding: 10px 10px;
+  border: none;
+  border-bottom: solid thin #ddd;
+}
+table.tmp-table tr th[nw],
+table.tmp-table tr td[nw] {
+  white-space: nowrap;
+}
+table.tmp-table tr th[ar],
+table.tmp-table tr td[ar] {
+  text-align: right;
+}
+table.tmp-table tr:hover td {
+  background-color: #eee;
+}
+
+table.tmp-table tr td .btn {
+  padding: 0 2px;
+  font-size: 18px;
+  line-height: 1.2;
+  border-radius: 1px;
+  cursor: pointer;
+}
+table.tmp-table tr td .btn:hover {
+  background-color: #e5f1fb;
+  order-color: #0078d7 !important;
+}
+
+table.tmp-table tr td .btn-pri {
+  color: #090;
+}
+table.tmp-table tr td .btn-sec {
+  color: #e11;
+}
+table.tmp-table tr td .btn-alt {
+  color: #069;
+}
+table.tmp-table tr td .btn-ter {
+  padding: 5px 10px;
+  background-color: #069;
+  color: #fff;
+  font-size: 10px;
+}

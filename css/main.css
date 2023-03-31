@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+main {
+  margin: 0 auto;
+}
+
+main.tmp-landing {
+  padding-top: 100px;
+  width: 450px;
+}
+main.tmp-landing .base {
+  margin: 300px 10px 20px;
+  text-align: center;
+  text-shadow: 0 1px #fff;
+  font-size: 12px;
+  display: block;
+}
+main.tmp-landing .base a:hover {
+  text-decoration: underline;
+}
+
+main.tmp-base {
+  padding: 15px;
+  min-width: 1240px;
+  /*	background-color:#FFC;*/
+  /*	min-height:55em;
+	max-height:55em;
+	overflow:auto;*/
+}

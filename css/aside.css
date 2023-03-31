@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+aside {
+  background-color: #fff;
+  border-right: solid thin #ddd;
+  min-width: 310px;
+}
+
+aside section.account {
+  padding: 20px 15px 10px;
+  font-size: 12px;
+}
+aside section.account .thumb {
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-attachment: scroll;
+  background-size: contain;
+
+  background-image: url("../img/admin.png");
+  background-color: #fff;
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  /*	box-shadow:0 1px 2px #DDD;*/
+}
+aside section.account .name {
+  text-transform: capitalize;
+  font-weight: bold;
+}
+aside section.account .bulb {
+  margin: 4px 2px 0 0;
+  background-color: #16bc00;
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  display: inline-block;
+}
+aside section.account .username {
+  color: #999;
+}
+aside section.account a {
+  float: right;
+  cursor: pointer;
+  display: inline-block;
+}
+
+aside section.menu .divide {
+  padding: 15px 15px;
+  color: #999;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: bold;
+}
+aside section.menu ul {
+}
+aside section.menu ul li {
+  display: block;
+}
+aside section.menu ul li a {
+  color: #555;
+  padding: 12px 15px;
+  border-top: solid thin transparent;
+  border-bottom: solid thin transparent;
+  font-size: 12px;
+  display: block;
+  -webkit-transition: background-color 0.2s; /* Safari */
+  transition: background-color 0.2s;
+}
+aside section.menu ul li a:hover {
+  background-color: #eee;
+  border-top: solid thin;
+  border-bottom: solid thin;
+}
+aside section.menu ul li a.focus {
+  background-color: #0093dd;
+  color: #fff;
+  font-weight: bol;
+  border-top: solid thin #007bb8;
+  border-bottom: solid thin #007bb8;
+}
+
+aside section.menu ul li i {
+  font-size: 18px;
+  float: left;
+  margin-right: 15px;
+}
+aside section.menu ul li var {
+  padding: 3px 8px;
+  background-color: #e11;
+  color: #fff;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: bold;
+  border-radius: 25px;
+  float: righ;
+}
+aside section.menu ul li img {
+  width: 18px;
+}

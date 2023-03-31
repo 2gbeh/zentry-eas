@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+footer {
+	padding:10px 20px;
+	margin:0;
+	background-color:#000;
+	color:#EEE;
+	width:100%;
+	text-align:left;
+	text-shadow:none;
+	font-size:12px;}
+footer a {
+	color:#0093DD;}
+footer .build {
+	color:#D81B60;
+	float:right;
+	display:inline-block;}	
+
+	
+
+
+	

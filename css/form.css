@@ -1,0 +1,147 @@
+@charset "utf-8";
+/* CSS Document */
+form.tmp-form {
+  padding: 25px 15px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px 0 #ddd;
+}
+form.tmp-form fieldset {
+  border: none;
+}
+form.tmp-form legend {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-size: 24px;
+  display: block;
+  width: 100%;
+}
+
+form.tmp-form label {
+  margin-top: 20px;
+  color: #0093dd;
+  font-size: 12px;
+  font-weight: bold;
+  cursor: pointer;
+  display: block;
+}
+form.tmp-form input,
+form.tmp-form select,
+form.tmp-form textarea {
+  padding: 10px;
+  margin-top: 10px;
+  width: 100%;
+  border: none;
+  border: solid thin #555;
+  display: block;
+}
+form.tmp-form textarea {
+  font-size: 12px;
+}
+form.tmp-form select[multiple] {
+  height: 38px;
+}
+form.tmp-form-login input {
+  padding: 10px 0;
+  margin: 0;
+  border: none;
+  border-bottom: solid thin #ccc;
+}
+form.tmp-form input:focus,
+form.tmp-form select:focus,
+form.tmp-form textarea:focus {
+  background-color: #ffc;
+  border-color: #0093dd;
+}
+form.tmp-form input[readonly],
+form.tmp-form select[readonly],
+form.tmp-form textarea[readonly] {
+  background-color: #eee;
+}
+
+form.tmp-form button {
+  margin-top: 15px;
+  padding: 12px 24px;
+  color: #fff;
+  font-weight: bold;
+  border: none;
+  border: solid thin;
+}
+form.tmp-form-login button {
+  width: 100%;
+  padding: 12px 24px;
+}
+form.tmp-form button.pri {
+  background-color: #0093dd;
+  color: #fff;
+  border-color: #007bb8;
+}
+form.tmp-form button.pri:hover {
+  background-color: #fff;
+  color: #007bb8;
+}
+form.tmp-form button.sec {
+  background-color: #555;
+  color: #fff;
+  border-color: #555;
+}
+form.tmp-form button.sec:hover {
+  background-color: #fff;
+  color: #555;
+}
+
+form.tmp-form label x {
+  color: #e11;
+}
+form.tmp-form label var {
+  padding-right: 10px;
+  color: blue;
+  font-size: 12px;
+  font-weight: normal;
+  float: right;
+}
+form.tmp-form .info {
+  padding: 10px 15px;
+  margin: 0;
+  background-color: #cce5ff;
+  color: #004085;
+  text-align: left;
+  font-size: 12px;
+  order-radius: 5px;
+  box-shadow: 0 1px 2px #ddd;
+  display: block;
+}
+form.tmp-form .action {
+  margin-top: 20px;
+  text-align: right;
+  border-top: solid thin #555;
+}
+form.tmp-form .overlay {
+  position: relative;
+}
+form.tmp-form .overlay i {
+  position: absolute;
+  top: 10px;
+  right: 5px;
+  color: #999;
+  font-size: 18px;
+  cursor: pointer;
+  z-index: 1px;
+}
+
+form.tmp-form-toolbar {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 20px;
+  background-color: transparent;
+  box-shadow: none;
+}
+form.tmp-form-toolbar fieldset {
+  margin: 0;
+  padding: 0;
+}
+form.tmp-form-toolbar input,
+form.tmp-form-toolbar select,
+form.tmp-form-toolbar button {
+  display: inline-block;
+}

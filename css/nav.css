@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+nav {
+  padding: 10px;
+  margin: 10px 20px;
+  margin-top: 0;
+  text-shadow: 0 1px #fff;
+  font-size: 12px;
+  border-bottom: solid thin #ccc;
+}
+
+nav b {
+  cursor: default;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  float: right;
+}
+
+nav ul li {
+  margin: 0 5px;
+  display: inline-block;
+}
+
+nav ul li a {
+  color: #0093dd;
+  text-decoration: none;
+}
+
+nav ul li a.focus {
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  color: #007bb8;
+  color: #e11;
+}
+
+nav ul li a.inactive {
+  color: #999;
+  text-decoration: none;
+  cursor: not-allowed;
+}

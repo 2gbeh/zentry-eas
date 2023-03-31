@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+header {
+	padding:5px 20px;
+	background-color:#FFF;
+	text-align:center;
+	border-top:solid #0093DD;
+	box-shadow:0 1px 2px 0 #DDD;}	
+	
+header img {
+	width:40px;}
+header img.lg {
+	width:60px;}	
+
+header h2 {
+	margin:5px 0 0 5px;
+	padding:0;
+	color:#0093DD;
+	font-weight:bold;
+	display:inline-block;
+	vertical-align:top;}
+	
