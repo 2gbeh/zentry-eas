@@ -1,0 +1,637 @@
+@charset "utf-8";
+/* CSS Document */
+.fa-smile:before {
+  content:"\f118";}
+	
+.fa-meh:before {
+  content:"\f11a";}	
+	
+.fa-portrait:before {
+  content:"\f3e0";}	
+	
+.fa-passport:before {
+  content:"\f5ab";}	
+	
+.fa-fingerprint:before {
+  content:"\f577";}
+	
+.fa-signature:before {
+  content:"\f5b7";}	
+	
+.fa-user:before {
+  content:"\f007";}
+
+.fa-user-alt:before {
+  content:"\f406";}	
+	
+.fa-users:before {
+  content:"\f0c0";}	
+	
+.fa-eye:before {
+  content:"\f06e";}
+		
+.fa-lock:before {
+  content:"\f023";}	
+	
+.fa-key:before {
+  content:"\f084";}
+		
+.fa-address-book:before {
+  content:"\f2b9";}
+	
+.fa-address-card:before {
+  content:"\f2bb";}	
+	
+.fa-id-badge:before {
+  content:"\f2c1";}
+
+.fa-id-card:before {
+  content:"\f2c2";}
+
+.fa-id-card-alt:before {
+  content:"\f47f";}	
+	
+.fa-child:before {
+  content:"\f1ae";}
+	
+.fa-male:before {
+  content:"\f183";}
+	
+.fa-female:before {
+  content:"\f182";}
+	
+.fa-restroom:before {
+  content:"\f7bd";}		
+	
+.fa-transgender:before {
+  content:"\f224";}
+
+.fa-transgender-alt:before {
+  content:"\f225";}
+	
+.fa-birthday-cake:before {
+  content:"\f1fd";}
+	
+.fa-baby:before {
+  content:"\f77c";}
+	
+.fa-baby-carriage:before {
+  content:"\f77d";}	
+	
+.fa-home:before {
+  content:"\f015";}
+	
+.fa-house-damage:before {
+  content:"\f6f1";}
+	
+.fa-clinic-medical:before {
+  content:"\f7f2";}	
+		
+.fa-hotel:before {
+  content:"\f594";}
+	
+.fa-landmark:before {
+  content:"\f66f";}
+	
+.fa-building:before {
+  content:"\f1ad";}	
+	
+.fa-city:before {
+  content:"\f64f";}	
+	
+.fa-subway:before {
+  content:"\f239";}
+	
+.fa-map-marker-alt:before {
+  content:"\f3c5";}
+	
+.fa-flag:before {
+  content:"\f024";}
+
+.fa-flag-checkered:before {
+  content:"\f11e";}
+
+.fa-flag-usa:before {
+  content:"\f74d";}
+	
+.fa-globe:before {
+  content:"\f0ac";}
+	
+.fa-globe-africa:before {
+  content:"\f57c";}
+	
+.fa-h-square:before {
+  content:"\f0fd";}	
+	
+.fa-heart:before {
+  content:"\f004";}	
+	
+fa-heartbeat:before {
+  content:"\f21e";}
+
+.fa-temperature-high:before {
+  content:"\f769";}
+
+.fa-temperature-low:before {
+  content:"\f76b";}	
+	
+.fa-first-aid:before {
+  content:"\f479";}
+	
+.fa-plus-square:before {
+  content:"\f0fe";}	
+
+.fa-wheelchair:before {
+  content:"\f193";}	
+	
+.fa-accessible-icon:before {
+  content:"\f368";}
+
+.fa-ambulance:before {
+  content:"\f0f9";}	
+	
+.fa-hospital:before {
+  content:"\f0f8";}
+
+.fa-hospital-alt:before {
+  content:"\f47d";}
+
+.fa-hospital-symbol:before {
+  content:"\f47e";}	
+
+.fa-stethoscope:before {
+  content:"\f0f1";}
+
+.fa-x-ray:before {
+  content:"\f497";}
+	
+.fa-prescription:before {
+  content:"\f5b1";}
+
+.fa-prescription-bottle:before {
+  content:"\f485";}
+
+.fa-prescription-bottle-alt:before {
+  content:"\f486";}
+	
+.fa-vial:before {
+  content:"\f492";}
+
+.fa-vials:before {
+  content:"\f493";}	
+
+.fa-tablet:before {
+  content:"\f10a";}
+
+.fa-tablet-alt:before {
+  content:"\f3fa";}
+
+.fa-tablets:before {
+  content:"\f490";}
+		
+.fa-pills:before {
+  content:"\f484";}
+
+.fa-capsules:before {
+  content:"\f46b";}	
+	
+.fa-cannabis:before {
+  content:"\f55f";}
+
+.fa-spa:before {
+  content:"\f5bb";}	
+	
+.fa-skull:before {
+  content:"\f54c";}
+
+.fa-skull-crossbones:before {
+  content:"\f714";}	
+	
+.fa-at:before {
+  content:"\f1fa";}
+	
+.fa-inbox:before {
+  content:"\f01c";}
+	
+.fa-envelope:before {
+  content:"\f0e0";}
+	
+.fa-envelope-open:before {
+  content:"\f2b6";}
+
+.fa-envelope-open-text:before {
+  content:"\f658";}
+
+.fa-envelope-square:before {
+  content:"\f199";}	
+		
+.fa-paper-plane:before {
+  content:"\f1d8";}
+	
+.fa-phone:before {
+  content:"\f095";}
+	
+.fa-phone-slash:before {
+  content:"\f3dd";}
+
+.fa-phone-square:before {
+  content:"\f098";}
+	
+.fa-mobile:before {
+  content:"\f10b";}
+
+.fa-mobile-alt:before {
+  content:"\f3cd";}	
+	
+.fa-fax:before {
+  content:"\f1ac";}
+	
+.fa-tty:before {
+  content:"\f1e4";}
+	
+.fa-rss:before {
+  content:"\f09e";}
+
+.fa-rss-square:before {
+  content:"\f143";}
+	
+.fa-wifi:before {
+  content:"\f1eb";}	
+	
+.fa-vote-yea:before {
+  content:"\f772";}
+	
+.fa-peace:before {
+  content:"\f67c";}
+	
+.fa-dove:before {
+  content:"\f4ba";}
+
+.fa-cross:before {
+  content:"\f654";}
+	
+.fa-bible:before {
+  content:"\f647";}
+	
+.fa-quran:before {
+  content:"\f687";}	
+	
+.fa-praying-hands:before {
+  content:"\f684";}					
+	
+.fa-pray:before {
+  content:"\f683";}
+	
+.fa-archway:before {
+  content:"\f557";}	
+
+.fa-place-of-worship:before {
+  content:"\f67f";}	
+
+.fa-church:before {
+  content:"\f51d";}
+	
+.fa-mosque:before {
+  content:"\f678";}	
+
+.fa-kaaba:before {
+  content:"\f66b";}
+	
+.fa-synagogue:before {
+  content:"\f69b";}
+
+.fa-torii-gate:before {
+  content:"\f6a1";}	
+
+.fa-vihara:before {
+  content:"\f6a7";}
+	
+.fa-yin-yang:before {
+  content:"\f6ad";}
+
+.fa-star-and-crescent:before {
+  content:"\f699";}
+
+.fa-star-half-alt:before {
+  content:"\f5c0";}
+
+.fa-star-of-david:before {
+  content:"\f69a";}
+
+.fa-star-of-life:before {
+  content:"\f621";}	
+		
+.fa-school:before {
+  content:"\f549";}
+	
+.fa-university:before {
+  content:"\f19c";}	
+	
+.fa-book:before {
+  content:"\f02d";}
+	
+.fa-book-reader:before {
+  content:"\f5da";}
+	
+.fa-bookmark:before {
+  content:"\f02e";}		
+	
+.fa-chalkboard:before {
+  content:"\f51b";}
+
+.fa-chalkboard-teacher:before {
+  content:"\f51c";}	
+	
+.fa-microscope:before {
+  content:"\f610";}
+			
+.fa-graduation-cap:before {
+  content:"\f19d";}
+	
+.fa-certificate:before {
+  content:"\f0a3";}
+	
+.fa-award:before {
+  content:"\f559";}	
+	
+.fa-trophy:before {
+  content:"\f091";}
+	
+.fa-gift:before {
+  content:"\f06b";}
+
+.fa-gifts:before {
+  content:"\f79c";}		
+		
+.fa-tv:before {
+  content:"\f26c";}
+
+.fa-desktop:before {
+  content:"\f108";}	
+	
+.fa-laptop:before {
+  content:"\f109";}
+
+.fa-laptop-code:before {
+  content:"\f5fc";}
+			
+.fa-code:before {
+  content:"\f121";}
+
+.fa-code-branch:before {
+  content:"\f126";}
+
+.fa-codepen:before {
+  content:"\f1cb";}	
+		
+.fa-star:before {
+  content:"\f005";}
+
+.fa-star-half:before {
+  content:"\f089";}	
+	
+.fa-pen-nib:before {
+  content:"\f5ad";}
+	
+.fa-clipboard:before {
+  content:"\f328";}
+
+.fa-clipboard-check:before {
+  content:"\f46c";}
+
+.fa-clipboard-list:before {
+  content:"\f46d";}
+	
+.fa-paperclip:before {
+  content:"\f0c6";}
+	
+.fa-utensil-spoon:before {
+  content:"\f2e5";}
+
+.fa-utensils:before {
+  content:"\f2e7";}
+	
+.fa-coffee:before {
+  content:"\f0f4";}
+	
+.fa-glass-cheers:before {
+  content:"\f79f";}
+
+.fa-glass-martini:before {
+  content:"\f000";}
+
+.fa-glass-martini-alt:before {
+  content:"\f57b";}
+
+.fa-glass-whiskey:before {
+  content:"\f7a0";}
+	
+.fa-cocktail:before {
+  content:"\f561";}
+	
+.fa-concierge-bell:before {
+  content:"\f562";}			
+	
+.fa-car:before {
+  content:"\f1b9";}
+
+.fa-car-alt:before {
+  content:"\f5de";}
+
+.fa-car-battery:before {
+  content:"\f5df";}
+
+.fa-car-crash:before {
+  content:"\f5e1";}
+
+.fa-car-side:before {
+  content:"\f5e4";}	
+	
+.fa-taxi:before {
+  content:"\f1ba";}
+	
+.fa-bus:before {
+  content:"\f207";}
+
+.fa-bus-alt:before {
+  content:"\f55e";}
+	
+.fa-shuttle-van:before {
+  content:"\f5b6";}
+	
+.fa-plane:before {
+  content:"\f072";}
+
+.fa-plane-arrival:before {
+  content:"\f5af";}
+
+.fa-plane-departure:before {
+  content:"\f5b0";}	
+	
+.fa-briefcase:before {
+  content:"\f0b1";}
+
+.fa-suitcase:before {
+  content:"\f0f2";}
+
+.fa-suitcase-rolling:before {
+  content:"\f5c1";}	
+		
+.fa-business-time:before {
+  content:"\f64a";}
+	
+.fa-handshake:before {
+  content:"\f2b5";}
+	
+.fa-hands-helping:before {
+  content:"\f4c4";}
+	
+.fa-balance-scale:before {
+  content:"\f24e";}
+		
+.fa-gavel:before {
+  content:"\f0e3";}
+	
+.fa-user-secret:before {
+  content:"\f21b";}
+	
+.fa-mask:before {
+  content:"\f6fa";}		
+	
+.fa-calculator:before {
+  content:"\f1ec";}
+
+.fa-money-bill:before {
+  content:"\f0d6";}
+
+.fa-money-bill-alt:before {
+  content:"\f3d1";}
+
+.fa-money-bill-wave:before {
+  content:"\f53a";}
+
+.fa-money-bill-wave-alt:before {
+  content:"\f53b";}
+
+.fa-money-check:before {
+  content:"\f53c";}
+	
+.fa-cash-register:before {
+  content:"\f788";}
+	
+.fa-wallet:before {
+  content:"\f555";}		
+
+.fa-piggy-bank:before {
+  content:"\f4d3";}
+
+.fa-coins:before {
+  content:"\f51e";}
+
+.fa-dollar-sign:before {
+  content:"\f155";}
+	
+.fa-comment-dollar:before {
+  content:"\f651";}
+	
+.fa-comments-dollar:before {
+  content:"\f653";}
+
+.fa-euro-sign:before {
+  content:"\f153";}
+	
+.fa-pound-sign:before {
+  content:"\f154";}
+
+.fa-yen-sign:before {
+  content:"\f157";}
+	
+.fa-rupee-sign:before {
+  content:"\f156";}			
+	
+.fa-btc:before {
+  content:"\f15a";}
+
+.fa-bitcoin:before {
+  content:"\f379";}
+
+.fa-credit-card:before {
+  content:"\f09d";}
+	
+.fa-file-invoice:before {
+  content:"\f570";}
+
+.fa-file-invoice-dollar:before {
+  content:"\f571";}
+	
+.fa-stamp:before {
+  content:"\f5bf";}
+	
+.fa-receipt:before {
+  content:"\f543";}		
+	
+.fa-donate:before {
+  content:"\f4b9";}	
+	
+.fa-bell:before {
+  content:"\f0f3";}		
+	
+.fa-calendar:before {
+  content:"\f133";}
+	
+.fa-calendar-alt:before {
+  content:"\f073";}	
+	
+.fa-calendar-check:before {
+  content:"\f274";}
+
+.fa-calendar-day:before {
+  content:"\f783";}	
+
+.fa-clock:before {
+  content:"\f017";}
+	
+.fa-history:before {
+  content:"\f1da";}
+	
+.fa-hourglass:before {
+  content:"\f254";}
+
+.fa-hourglass-end:before {
+  content:"\f253";}
+
+.fa-hourglass-half:before {
+  content:"\f252";}
+
+.fa-hourglass-start:before {
+  content:"\f251";}		
+	
+.fa-info:before {
+  content:"\f129";}
+
+.fa-info-circle:before {
+  content:"\f05a";}	
+
+.fa-exclamation:before {
+  content:"\f12a";}
+
+.fa-exclamation-circle:before {
+  content:"\f06a";}
+
+.fa-exclamation-triangle:before {
+  content:"\f071";}
+
+.fa-question:before {
+  content:"\f128";}
+
+.fa-question-circle:before {
+  content:"\f059";}
+
+.fa-trash:before {
+  content:"\f1f8";}
+
+.fa-trash-alt:before {
+  content:"\f2ed";}		
+		
+.fa-pencil-alt:before {
+  content:"\f303";}	

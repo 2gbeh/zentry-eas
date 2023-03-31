@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+.sr-only {
+  border:0;
+  clip:rect(0, 0, 0, 0);
+  height:1px;
+  margin:-1px;
+  overflow:hidden;
+  padding:0;
+  position:absolute;
+  width:1px;}
+
+.sr-only-focusable:active, .sr-only-focusable:focus {
+  clip:auto;
+  height:auto;
+  margin:0;
+  overflow:visible;
+  position:static;
+  width:auto;}
+@font-face {
+  font-family:'Font Awesome 5 Brands';
+  font-style:normal;
+  font-weight:normal;
+  font-display:auto;
+  src:url("../eot/fa-brands-400.eot");
+  src:url("../eot/fa-brands-400d41d.eot?#iefix") format("embedded-opentype"), 
+url("../eot/fa-brands-400.woff2") format("woff2"), 
+url("../eot/fa-brands-400.woff") format("woff"), 
+url("../eot/fa-brands-400.ttf") format("truetype"), 
+url("../eot/fa-brands-400.svg#fontawesome") format("svg");}
+
+.fab {
+  font-family:'Font Awesome 5 Brands';}
+@font-face {
+  font-family:'Font Awesome 5 Free';
+  font-style:normal;
+  font-weight:400;
+  font-display:auto;
+  src:url("../eot/fa-regular-400.eot");
+  src:url("../eot/fa-regular-400d41d.eot?#iefix") format("embedded-opentype"), 
+url("../eot/fa-regular-400.woff2") format("woff2"), 
+url("../eot/fa-regular-400.woff") format("woff"), 
+url("../eot/fa-regular-400.ttf") format("truetype"), 
+url("../eot/fa-regular-400.svg#fontawesome") format("svg");}
+
+.far {
+  font-family:'Font Awesome 5 Free';
+  font-weight:400;}
+@font-face {
+  font-family:'Font Awesome 5 Free';
+  font-style:normal;
+  font-weight:900;
+  font-display:auto;
+  src:url("../eot/fa-solid-900.eot");
+  src:url("../eot/fa-solid-900d41d.eot?#iefix") format("embedded-opentype"), 
+url("../eot/fa-solid-900.woff2") format("woff2"), 
+url("../eot/fa-solid-900.woff") format("woff"), 
+url("../eot/fa-solid-900.ttf") format("truetype"), 
+url("../eot/fa-solid-900.svg#fontawesome") format("svg");}
+
+.fa,
+.fas {
+  font-family:'Font Awesome 5 Free';
+  font-weight:900;}

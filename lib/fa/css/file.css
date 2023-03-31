@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+.fa-file:before {
+  content:"\f15b";}
+
+.fa-file-alt:before {
+  content:"\f15c";}
+
+.fa-file-archive:before {
+  content:"\f1c6";}
+
+.fa-file-audio:before {
+  content:"\f1c7";}
+
+.fa-file-code:before {
+  content:"\f1c9";}
+
+.fa-file-contract:before {
+  content:"\f56c";}
+
+.fa-file-csv:before {
+  content:"\f6dd";}
+
+.fa-file-download:before {
+  content:"\f56d";}
+
+.fa-file-excel:before {
+  content:"\f1c3";}
+
+.fa-file-export:before {
+  content:"\f56e";}
+
+.fa-file-image:before {
+  content:"\f1c5";}
+
+.fa-file-import:before {
+  content:"\f56f";}
+
+.fa-file-invoice:before {
+  content:"\f570";}
+
+.fa-file-invoice-dollar:before {
+  content:"\f571";}
+
+.fa-file-medical:before {
+  content:"\f477";}
+
+.fa-file-medical-alt:before {
+  content:"\f478";}
+
+.fa-file-pdf:before {
+  content:"\f1c1";}
+
+.fa-file-powerpoint:before {
+  content:"\f1c4";}
+
+.fa-file-prescription:before {
+  content:"\f572";}
+
+.fa-file-signature:before {
+  content:"\f573";}
+
+.fa-file-upload:before {
+  content:"\f574";}
+
+.fa-file-video:before {
+  content:"\f1c8";}
+
+.fa-file-word:before {
+  content:"\f1c2";}
+	
+.fa-folder:before {
+  content:"\f07b";}
+
+.fa-folder-minus:before {
+  content:"\f65d";}
+
+.fa-folder-open:before {
+  content:"\f07c";}
+
+.fa-folder-plus:before {
+  content:"\f65e";}	

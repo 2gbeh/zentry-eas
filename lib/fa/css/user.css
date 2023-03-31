@@ -1,0 +1,80 @@
+@charset "utf-8";
+/* CSS Document */
+.fa-user:before {
+  content:"\f007";}
+
+.fa-user-alt:before {
+  content:"\f406";}
+
+.fa-user-alt-slash:before {
+  content:"\f4fa";}
+
+.fa-user-astronaut:before {
+  content:"\f4fb";}
+
+.fa-user-check:before {
+  content:"\f4fc";}
+
+.fa-user-circle:before {
+  content:"\f2bd";}
+
+.fa-user-clock:before {
+  content:"\f4fd";}
+
+.fa-user-cog:before {
+  content:"\f4fe";}
+
+.fa-user-edit:before {
+  content:"\f4ff";}
+
+.fa-user-friends:before {
+  content:"\f500";}
+
+.fa-user-graduate:before {
+  content:"\f501";}
+
+.fa-user-injured:before {
+  content:"\f728";}
+
+.fa-user-lock:before {
+  content:"\f502";}
+
+.fa-user-md:before {
+  content:"\f0f0";}
+
+.fa-user-minus:before {
+  content:"\f503";}
+
+.fa-user-ninja:before {
+  content:"\f504";}
+
+.fa-user-nurse:before {
+  content:"\f82f";}
+
+.fa-user-plus:before {
+  content:"\f234";}
+
+.fa-user-secret:before {
+  content:"\f21b";}
+
+.fa-user-shield:before {
+  content:"\f505";}
+
+.fa-user-slash:before {
+  content:"\f506";}
+
+.fa-user-tag:before {
+  content:"\f507";}
+
+.fa-user-tie:before {
+  content:"\f508";}
+
+.fa-user-times:before {
+  content:"\f235";}
+
+.fa-users:before {
+  content:"\f0c0";}
+
+.fa-users-cog:before {
+  content:"\f509";}
+	
