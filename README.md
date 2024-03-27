@@ -22,6 +22,4 @@ $ cd rtk
 3. Visit http://localhost/rtk
 
 
-### Screenshot
-
-![Data Model Diagram](./img/social-preview.png)
+![Screenshot](./img/social-preview.png)
