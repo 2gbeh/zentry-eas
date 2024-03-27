@@ -24,8 +24,6 @@ $ cd rtk
 
 3. Visit http://localhost/rtk
 
+## Documentation
 
 ![Screenshot](./img/social-preview.png)
-
-
-## Documentation
