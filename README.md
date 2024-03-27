@@ -8,18 +8,24 @@ Book Sales & Distribution Management Software
 [![PHP](https://img.shields.io/badge/PHP-8.x-777bb3.svg)](https://www.w3schools.com/php/default.asp)
 [![MySQL](https://img.shields.io/badge/MySQL-10.x-ef7b00.svg)](https://www.w3schools.com/mysql/default.asp)
 
-### Clone the project
+## Installation 
 
 ```
 $ git clone https://github.com/2gbeh/rtk.git
+
 $ cd rtk
 ```
 
-### Usage
+## Usage
 
 1. Start `Apache Server` and visit http://localhost/phpmyadmin
-2. Create a new database `rtk_db` and import [database dump]( https://github.com/2gbeh/zentry-eas/blob/main/data/rtk_db.sql)
+  
+2. Create a new database `rtk_db` and import the [database dump]( https://github.com/2gbeh/zentry-eas/blob/main/data/rtk_db.sql)
+
 3. Visit http://localhost/rtk
 
 
 ![Screenshot](./img/social-preview.png)
+
+
+## Documentation
